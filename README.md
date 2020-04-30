@@ -1,8 +1,9 @@
-# personal_scrapbook
+# MyScrapbook : our Android Mobile Application
 
-A new Flutter project.
+As the name suggests we have created an android app which pretty much resembles a personal scrapbook! Yes we want all of you to deep dive into nostalgia and reminisce about those good old days when you filled your scrapbook with all your favourite works, places and what not!
+This app now gives a chance to you all to do the same and also the option of sharing your favourite memories, places, movies and much more with your friends. Now no need to remember about your favourite TV shows, movies and food places as you can now directly open this app and see all your preferences and if you are bored, you can even ask your friends to share their favourite things!
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
